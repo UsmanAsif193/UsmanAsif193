@@ -15,5 +15,5 @@ My name is **Usman Asif**
 - [Profile](https://github.com/UsmanAsif193 "Usman Asif")
 - [Email](mailto:Usmanasif193@gmail.com?subject=Hi% "Hi!")
 - [Linkedin](https://linkedin.com/in/Usmanasif193)
-- [Website link 1](https://usmanasif.surge.sh)
-- [Website link 2](https://usmanasif.netlify.app)
+- [Portfolio Website link 1](https://usmanasif193.herokuapp.com/)
+- [Portfolio Website link 2](https://usmanasif.netlify.app)
