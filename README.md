@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/uzairriaz">
+<a href="https://github.com/usmanasif193">
   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=usmanasif193&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <br>
   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usmanasif193&layout=compact&theme=algolia"/> 
