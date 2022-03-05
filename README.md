@@ -11,7 +11,7 @@
 <h3>Something about me<h3/>
 
 - 🔭 I’m currently working on Fiverr projects
-- 🌱 I’m currently learning Backend (GraphQl)
+- 🌱 I’m currently learning Angular Js, Vue s
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goal: Work at Apple  as Developer 👨‍💻
 - ⚡ Fun fact: I love Memes 😂
