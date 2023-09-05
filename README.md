@@ -10,9 +10,9 @@
 <br>
 <h3>Something about me<h3/>
 
-- 🔭 I’m currently working on Fiverr projects
-- 🌱 I’m currently learning Angular Js, Vue s
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 Top Rated Seller on Fiverr
+- 🌱 Learning More about Freelancing
+- 👯 Expanding my company
 - 🥅 Goal: Work at Apple  as Developer 👨‍💻
 - ⚡ Fun fact: I love Memes 😂
 <br>
