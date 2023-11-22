@@ -15,7 +15,7 @@
 - 🔭 Top Rated Seller on Fiverr
 - 🌱 Learning More about Freelancing
 - 👯 Expanding my company
-- 🥅 Goal: Work at Apple  as Developer 👨‍💻
+- 🥅 Goal: Compete OpenAI in tech 👨‍💻
 - ⚡ Fun fact: I love Memes 😂
 
 <h3>Github Analysis</h3>
